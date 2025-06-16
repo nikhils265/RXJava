@@ -1,4 +1,4 @@
-package com.nikhilzs.lecture01;
+package com.nikhilzs.lecture;
 
 import io.reactivex.rxjava3.core.Observable;
 
